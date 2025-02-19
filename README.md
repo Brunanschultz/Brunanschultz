@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Brunanschultz/Brunanschultz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Olá, eu sou a Bruna!
+🚀 Especialista em Engenharia de Dados na Telefônica, apaixonada por arquitetura de dados, processamento distribuído e soluções escaláveis.
+📌 Tech Stack
+🔹 PySpark, Apache Spark, Airflow, Databricks
+🔹 Python, SQL, Power BI
+🔹 Azure, Data Lakes, ETL
+💡 Sobre mim
+Atuo na construção de pipelines de dados eficientes e confiáveis, ajudando empresas a transformar dados brutos em insights estratégicos. Além disso, tenho experiência em liderança técnica e na definição de padrões para governança e qualidade dos dados.
+📫 Vamos conversar?
+Se quiser trocar ideias sobre engenharia de dados, arquitetura ou desafios técnicos, me chama no LinkedIn.
